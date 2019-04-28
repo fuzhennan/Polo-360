@@ -15,9 +15,9 @@
 在开发中，我兼容了IE6.0及以上，Firefox，chrome，safari等市面上主流浏览器，用户可自行在代码中查看
 
 ## 最终效果
-我就放一张最终效果图把
+![Image text](https://upload-images.jianshu.io/upload_images/13168971-f90f0dc6dc1203fe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
 
 
 ## 结尾
-由于我刚学完基础知识，水平有限，欢迎向我提Issue，喜欢的可以点个star支持一下！
-本人博客https://fuzhennan.github.io/
+由于我刚学完基础知识，水平有限，欢迎向我提Issue，喜欢的可以点个star支持一下！  本人博客https://fuzhennan.github.io/
+
